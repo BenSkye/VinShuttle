@@ -5,7 +5,7 @@ const nextConfig = {
     domains: [],
   },
   reactStrictMode: true,
-  swcMinify: true,
+  // swcMinify: true,
 };
 
 export default nextConfig;
